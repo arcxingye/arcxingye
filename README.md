@@ -1,6 +1,10 @@
 🦌🥛suki
 
 有项目请务必让我蹭蹭，我可以端茶倒水()
+
+<img src="https://count.getloli.com/get/@arcxingye">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arcxingye)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arcxingye/arcxingye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
