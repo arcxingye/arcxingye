@@ -1,8 +1,8 @@
 ![arcxingye](https://count.getloli.com/get/@arcxingye)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcxingye&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcxingye&layout=compact&theme=buefy)
 
-![arcxingye's github stats](https://github-readme-stats.vercel.app/api?username=arcxingye)
+![arcxingye's github stats](https://github-readme-stats.vercel.app/api?username=arcxingye&count_private=true&show_icons=true&count_private=true&theme=buefy)
 <!--
 **arcxingye/arcxingye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
