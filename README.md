@@ -1,7 +1,3 @@
-🦌🥛suki
-
-有项目请务必让我蹭蹭，我可以端茶倒水()
-
 <img src="https://count.getloli.com/get/@arcxingye">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcxingye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
